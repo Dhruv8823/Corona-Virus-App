@@ -1,4 +1,4 @@
-# Corona-Virus-App
+# Coronavirus tracker-App
 A new Flutter project.
 
 ## Getting Started
